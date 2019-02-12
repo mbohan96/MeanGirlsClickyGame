@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Cady Heron",
+        "image": "https://vignette.wikia.nocookie.net/meangirls/images/d/de/Cady_smiling.jpg/revision/latest?cb=20160126055120"
+    },
+    {
+        "id": 2,
+        "name": "Janis Ian",
+        "image": "https://vignette.wikia.nocookie.net/meangirls/images/5/54/Janis_Ian.JPG/revision/latest?cb=20130403104124"
+    },
+    {
+        "id": 3,
+        "name": "Karen Smith",
+        "image": "https://imgix.bustle.com/rehost/2016/9/13/f56aa227-6ea1-4f8d-a995-b5c1b3911b62.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70"
+    },
+    {
+        "id": 4,
+        "name": "Regina George",
+        "image": "https://media1.popsugar-assets.com/files/thumbor/uX0TQ2_nxkayhlKmWHNiHnZPe6I/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/10/03/762/n/1922283/85e2f5f5_dd99f5d8_regTH/i/Regina-George-Mean-Girls-GIFs.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ms.Norbury",
+        "image": "http://images2.fanpop.com/images/photos/7200000/Tina-in-Mean-Girls-tina-fey-7204014-640-480.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Gretchen Weiners",
+        "image": "https://i.imgflip.com/1af4vv.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Aaron Samuels",
+        "image": "https://imgix.bustle.com/elite-daily/2016/09/07215054/aaron-samuels.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70"
+    },
+    {
+        "id": 8,
+        "name": "Damian",
+        "image": "https://www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict0002536073101.jpg?strip=all&w=1200&h=800&crop=1"
+    },
+    {
+        "id": 9,
+        "name": "Girl Who Got Punched",
+        "image": "https://peopledotcom.files.wordpress.com/2016/08/stefanie-drummond-660.jpg?w=660"
+    },
+    {
+        "id": 10,
+        "name": "Mrs.George",
+        "image": "https://media1.popsugar-assets.com/files/thumbor/4mSz9u72Kcd0QDZZ2zMDGgyPhTA/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/08/24/760/n/1922564/9a592caed2f95eda_MCDMEGI_EC071_H/i/Mrs-George-Pink-Tracksuit.JPG"
+    },
+    {
+        "id": 11,
+        "name": "Glen coco",
+        "image": "https://vignette.wikia.nocookie.net/meangirls/images/e/e2/Tumblr_l11zlrQUa91qa4bwoo1_400.jpg/revision/latest?cb=20120107074927"
+    },
+    {
+        "id": 12,
+        "name": "Kevin Gnapor",
+        "image": "https://img.huffingtonpost.com/asset/577d35d11800002500fa42dd.jpeg?cache=s5ywiuthe3&ops=scalefit_720_noupscale"
+    }
+
+]
